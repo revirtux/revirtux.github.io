@@ -1,3 +1,6 @@
 theme: jekyll-theme-hacker
-title: revirtux mind
+title: revirtux
+
+show_github_link: True
+
 google_analytics: G-GQB4Z6G756
