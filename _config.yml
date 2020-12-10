@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 title: revirtux
 
-show_github_link: False
+show_github_link: True
 
 google_analytics: G-GQB4Z6G756
